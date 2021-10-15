@@ -1,0 +1,6 @@
+Credentials cache: API:1DFB83A5-F1E5-42F8-8950-11A59647633A
+        Principal: ael-korc@1337.MA
+
+  Issued                Expires               Principal
+Sep 22 15:22:22 2021  Sep 23 01:22:22 2021  krbtgt/1337.MA@1337.MA
+Sep 22 15:22:24 2021  Sep 23 01:22:22 2021  HTTP/iscsi.1337.ma@1337.MA
